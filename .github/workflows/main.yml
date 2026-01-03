@@ -24,4 +24,3 @@ jobs:
         with:
           name: snake_apk
           path: bin/*.apk
-          
