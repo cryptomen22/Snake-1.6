@@ -1,12 +1,11 @@
 [app]
-title = Snake 1.6
-package.name = snakeabsolute
-package.domain = org.vseznaushchy
+title = Snake
+package.name = snake
+package.domain = org.test
 source.dir = .
 source.include_exts = py,png,jpg,ttf
-version = 1.6
-requirements = python3,pygame,sdl2_ttf,sdl2_image,sdl2_mixer
+version = 0.1
+requirements = python3,pygame
 orientation = portrait
 fullscreen = 1
-android.archs = arm64-v8a, armeabi-v7a
-android.permissions = INTERNET
+android.archs = arm64-v8a
